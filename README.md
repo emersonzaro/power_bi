@@ -1,11 +1,12 @@
 
 Seguem alguns dos meus Dashboards que fiz utilizando a ferramenta PowerBI.
-Capacitação ministrada pela Data Science Academy
 
-# Microsoft Power BI Para Data Science, Versão 2.0 #
-Meu certificado pode ser encontrado em: https://mycourse.app/6CyEGWDgQmHtyasJ7
+# Capacitação ministrada pela Data Science Academy 
 
-Temas abordados na capacitação em PowerBI com Análise de Dados:
+## Microsoft Power BI Para Data Science, Versão 2.0 #
+📝 Meu certificado pode ser encontrado em: https://mycourse.app/6CyEGWDgQmHtyasJ7
+
+⚡ #Temas abordados na capacitação em PowerBI com Análise de Dados:
 
 - Primeiros Passos com Power BI Desktop
 - Business Intelligence no Power BI
@@ -25,4 +26,4 @@ Temas abordados na capacitação em PowerBI com Análise de Dados:
 - Power Automate
 - Power Virtual Agents
 - Power Apps
-- Projeto Final - Data Lake, Dremio e Power BI Para Análise de Vendas
+- Projeto Final - Data Lake, Dremio e Power BI Para Análise de Vendas 
