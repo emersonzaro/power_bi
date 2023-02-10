@@ -1,0 +1,13 @@
+POWER BI e Data Analytics, agora importando os gráficos diretamente pelo Jupyter Notebook. 
+Foi utilizado o Anaconda para instalação completa de tudo o que o Python necessitava.
+
+Simulamos as seguintes questões do pessoal do RH referente a massa de dados que nos foram fornecidas:
+
+Qual a Correlação Entre os Atributos dos Funcionários?
+Qual o Tempo de Serviço da Maioria dos Funcionários?
+Qual Avaliação do Ano Anterior Foi Mais Comum?
+Qual a Distribuição das Idades dos Funcionários?
+Qual o Número de Treinamentos Mais Frequente?
+Qual a Proporção dos Funcionários Por Canal de Recrutamento?
+
+OBS: NECESSITA DO PYTHON INSTALADO LOCALMENTE NO SEU SISTEMA PARA FUNCIONAR.
