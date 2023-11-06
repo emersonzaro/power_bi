@@ -1,0 +1,201 @@
+ID;Data;Hora;Região;Estudante;Curso;Feature;Nota
+000000001;06/08/2023;08:28:21;Sudeste;Cintia Nogueira;Literatura;Simulados;5,9
+000000002;05/08/2023;05:51:54;Sudeste;Caio Damasco;Física;Ebooks;X
+000000003;07/08/2023;10:46:16;Sudeste;Caio Damasco;Física;Simulados;2,45
+000000004;14/08/2023;22:44:25;Norte;Yuri Kepler;Física;Aulas Online;X
+000000005;08/08/2023;00:41:16;Norte;Daniel Dalembert;Literatura;Aulas Online;X
+000000006;23/08/2023;05:56:52;Norte;Polyana Hermes;Ciências da Computação;Exercícios;2,78
+000000007;04/08/2023;02:29:56;Sul;Romero Trajano;Física;Ebooks;X
+000000008;11/08/2023;02:00:16;Sul;Hélio Jr;História;Ebooks;X
+000000009;15/08/2023;20:27:37;Centro Oeste;Geovana Hiur;Matemática;Ebooks;X
+000000010;10/08/2023;17:45:56;Sudeste;Ana Malu;Matemática;Simulados;1,8
+000000011;29/08/2023;07:50:00;Sudeste;Cintia Nogueira;Física;Aulas Online;X
+000000012;19/08/2023;13:50:54;Sudeste;Ana Malu;Física;Exercícios;6,23
+000000013;27/08/2023;15:58:30;Norte;Daniel Dalembert;Literatura;Simulados;0,34
+000000014;20/08/2023;14:30:11;Nordeste;Karol Alencar;Literatura;Aulas Online;X
+000000015;16/08/2023;20:10:53;Norte;Daniel Dalembert;Física;Simulados;3,88
+000000016;08/08/2023;21:57:33;Nordeste;Pedro Honório;Matemática;Aulas Online;X
+000000017;10/08/2023;06:25:41;Nordeste;Karol Alencar;Ciências da Computação;Ebooks;X
+000000018;25/08/2023;14:02:14;Sudeste;Cintia Nogueira;Física;Ebooks;X
+000000019;20/08/2023;13:13:27;Sudeste;Júlio Godoy;Física;Aulas Online;X
+000000020;05/08/2023;13:53:04;Centro Oeste;Geovana Hiur;Matemática;Ebooks;X
+000000021;07/08/2023;23:15:04;Sudeste;Renan Oliveira;História;Exercícios;0,22
+000000022;24/08/2023;12:28:55;Nordeste;Pedro Honório;Literatura;Aulas Online;X
+000000023;18/08/2023;22:33:04;Sudeste;Ana Malu;Ciências da Computação;Exercícios;7,8
+000000024;20/08/2023;03:09:17;Sudeste;Júlio Godoy;Engenharia Civil;Aulas Online;X
+000000025;08/08/2023;17:17:26;Nordeste;Brunno Paiva;Ciências da Computação;Simulados;9,43
+000000026;01/08/2023;07:19:05;Sul;Sávio Pedrosa;Matemática;Aulas Online;X
+000000027;08/08/2023;03:09:55;Sudeste;Cintia Nogueira;História;Aulas Online;X
+000000028;13/08/2023;09:03:30;Nordeste;Fernando Yuri;Literatura;Exercícios;2,32
+000000029;11/08/2023;11:31:37;Sul;Sávio Pedrosa;Engenharia Civil;Exercícios;2,07
+000000030;24/08/2023;15:37:16;Sul;Sávio Pedrosa;Matemática;Aulas Online;X
+000000031;11/08/2023;06:06:03;Centro Oeste;Kleiton Xavier;Matemática;Aulas Online;X
+000000032;13/08/2023;04:19:41;Centro Oeste;Lugano Diego;Matemática;Exercícios;0,89
+000000033;30/08/2023;18:09:32;Sul;Sávio Pedrosa;Engenharia Civil;Aulas Online;X
+000000034;05/08/2023;06:19:03;Centro Oeste;Kleiton Xavier;Física;Aulas Online;X
+000000035;06/08/2023;22:24:30;Sul;Sávio Pedrosa;Matemática;Exercícios;4,74
+000000036;12/08/2023;02:15:25;Sudeste;Júlio Godoy;História;Simulados;9,19
+000000037;01/08/2023;03:38:17;Nordeste;Brunno Paiva;Matemática;Exercícios;1,81
+000000038;03/08/2023;23:24:35;Nordeste;Karol Alencar;Física;Aulas Online;X
+000000039;24/08/2023;15:10:20;Sudeste;Renan Oliveira;Ciências da Computação;Simulados;3,15
+000000040;28/08/2023;16:25:31;Sudeste;Ana Malu;Ciências da Computação;Exercícios;5,21
+000000041;22/08/2023;21:33:33;Sudeste;Caio Damasco;Física;Aulas Online;X
+000000042;29/08/2023;21:22:16;Sul;Sávio Pedrosa;Física;Aulas Online;X
+000000043;02/08/2023;03:41:28;Nordeste;Pedro Honório;Matemática;Aulas Online;X
+000000044;08/08/2023;09:53:30;Norte;Polyana Hermes;Física;Simulados;9,9
+000000045;20/08/2023;00:05:01;Nordeste;Brunno Paiva;Matemática;Simulados;6,81
+000000046;21/08/2023;20:15:49;Norte;Yuri Kepler;Ciências da Computação;Simulados;7,45
+000000047;13/08/2023;04:03:48;Centro Oeste;Geovana Hiur;História;Simulados;5,24
+000000048;13/08/2023;10:40:40;Sudeste;Renan Oliveira;Física;Ebooks;X
+000000049;26/08/2023;11:46:06;Sudeste;Renan Oliveira;Matemática;Ebooks;X
+000000050;26/08/2023;10:48:00;Norte;Polyana Hermes;Física;Exercícios;5,94
+000000051;24/08/2023;20:32:36;Norte;Yuri Kepler;Ciências da Computação;Ebooks;X
+000000052;27/08/2023;16:18:01;Sudeste;Renan Oliveira;Engenharia Civil;Simulados;1,97
+000000053;28/08/2023;14:01:47;Norte;Yuri Kepler;Ciências da Computação;Simulados;3,54
+000000054;08/08/2023;03:06:06;Norte;Yuri Kepler;Literatura;Exercícios;5,73
+000000055;03/08/2023;16:46:02;Centro Oeste;Geovana Hiur;História;Exercícios;5,64
+000000056;12/08/2023;14:21:39;Sul;Hélio Jr;Física;Aulas Online;X
+000000057;10/08/2023;07:52:15;Norte;Polyana Hermes;Matemática;Ebooks;X
+000000058;21/08/2023;11:41:22;Norte;Polyana Hermes;Matemática;Simulados;5,22
+000000059;21/08/2023;11:44:48;Norte;Daniel Dalembert;Literatura;Aulas Online;X
+000000060;02/08/2023;18:29:17;Norte;Polyana Hermes;Matemática;Exercícios;6,71
+000000061;08/08/2023;01:36:22;Norte;Daniel Dalembert;Física;Simulados;3,58
+000000062;07/08/2023;12:00:40;Norte;Yuri Kepler;Ciências da Computação;Exercícios;0,22
+000000063;05/08/2023;08:00:12;Norte;Yuri Kepler;Ciências da Computação;Ebooks;X
+000000064;29/08/2023;23:46:42;Sul;Sávio Pedrosa;Engenharia Civil;Ebooks;X
+000000065;17/08/2023;14:51:45;Centro Oeste;Kleiton Xavier;Literatura;Ebooks;X
+000000066;02/08/2023;03:18:09;Sudeste;Ana Malu;Física;Exercícios;6,97
+000000067;28/08/2023;16:34:44;Norte;Daniel Dalembert;Ciências da Computação;Simulados;7,26
+000000068;11/08/2023;09:19:02;Norte;Polyana Hermes;Literatura;Simulados;5,84
+000000069;19/08/2023;11:00:51;Nordeste;Brunno Paiva;História;Simulados;0,3
+000000070;31/08/2023;09:36:30;Sul;Romero Trajano;Engenharia Civil;Simulados;0,91
+000000071;18/08/2023;19:53:40;Sul;Romero Trajano;História;Simulados;6,08
+000000072;04/08/2023;15:25:18;Sul;Hélio Jr;Literatura;Aulas Online;X
+000000073;24/08/2023;01:55:51;Nordeste;Pedro Honório;Engenharia Civil;Exercícios;0,97
+000000074;17/08/2023;22:52:16;Sul;Hélio Jr;Engenharia Civil;Aulas Online;X
+000000075;11/08/2023;04:22:52;Norte;Daniel Dalembert;Ciências da Computação;Ebooks;X
+000000076;21/08/2023;07:50:07;Norte;Yuri Kepler;História;Exercícios;8,53
+000000077;06/08/2023;03:35:06;Sudeste;Cintia Nogueira;Matemática;Simulados;8,19
+000000078;22/08/2023;05:24:32;Sul;Romero Trajano;Literatura;Aulas Online;X
+000000079;03/08/2023;14:29:38;Norte;Polyana Hermes;Engenharia Civil;Aulas Online;X
+000000080;12/08/2023;22:17:35;Sul;Sávio Pedrosa;História;Simulados;4,22
+000000081;29/08/2023;00:33:29;Sul;Hélio Jr;Física;Ebooks;X
+000000082;01/08/2023;13:30:10;Centro Oeste;Geovana Hiur;Literatura;Exercícios;1,82
+000000083;10/08/2023;12:52:03;Norte;Polyana Hermes;Ciências da Computação;Simulados;5,49
+000000084;04/08/2023;11:29:30;Nordeste;Brunno Paiva;Matemática;Ebooks;X
+000000085;15/08/2023;02:09:09;Nordeste;Karol Alencar;Ciências da Computação;Ebooks;X
+000000086;20/08/2023;06:57:09;Sul;Romero Trajano;Engenharia Civil;Aulas Online;X
+000000087;21/08/2023;05:02:09;Nordeste;Pedro Honório;Matemática;Simulados;1,68
+000000088;26/08/2023;21:34:46;Nordeste;Brunno Paiva;Matemática;Simulados;2,08
+000000089;03/08/2023;15:25:10;Nordeste;Pedro Honório;Matemática;Aulas Online;X
+000000090;22/08/2023;22:28:04;Sul;Hélio Jr;Ciências da Computação;Ebooks;X
+000000091;02/08/2023;15:33:51;Norte;Polyana Hermes;Engenharia Civil;Exercícios;1,47
+000000092;22/08/2023;23:15:37;Sudeste;Caio Damasco;Literatura;Ebooks;X
+000000093;05/08/2023;18:10:46;Nordeste;Fernando Yuri;Engenharia Civil;Simulados;7,15
+000000094;02/08/2023;11:13:17;Norte;Daniel Dalembert;História;Aulas Online;X
+000000095;06/08/2023;17:02:09;Norte;Daniel Dalembert;Literatura;Aulas Online;X
+000000096;27/08/2023;21:43:13;Nordeste;Karol Alencar;Literatura;Simulados;9,63
+000000097;26/08/2023;03:26:04;Sudeste;Júlio Godoy;Física;Exercícios;5,69
+000000098;30/08/2023;01:47:08;Sul;Sávio Pedrosa;Literatura;Aulas Online;X
+000000099;11/08/2023;12:39:36;Sudeste;Cintia Nogueira;Matemática;Exercícios;4,57
+000000100;27/08/2023;09:10:41;Norte;Yuri Kepler;Matemática;Aulas Online;X
+000000101;04/08/2023;13:09:39;Nordeste;Karol Alencar;Matemática;Aulas Online;X
+000000102;22/08/2023;13:55:24;Centro Oeste;Geovana Hiur;Literatura;Ebooks;X
+000000103;05/08/2023;16:01:54;Nordeste;Pedro Honório;Engenharia Civil;Exercícios;6,35
+000000104;15/08/2023;20:26:51;Sul;Romero Trajano;Ciências da Computação;Aulas Online;X
+000000105;31/08/2023;23:27:50;Sul;Romero Trajano;Física;Simulados;1,98
+000000106;02/08/2023;01:12:11;Sul;Hélio Jr;História;Exercícios;3,46
+000000107;27/08/2023;13:55:48;Sudeste;Caio Damasco;Literatura;Aulas Online;X
+000000108;07/08/2023;12:03:53;Centro Oeste;Mannu Cardoso;Física;Ebooks;X
+000000109;17/08/2023;22:36:09;Norte;Polyana Hermes;Matemática;Ebooks;X
+000000110;27/08/2023;21:41:46;Sul;Hélio Jr;Física;Ebooks;X
+000000111;31/08/2023;22:09:26;Sudeste;Caio Damasco;História;Exercícios;6,28
+000000112;17/08/2023;23:22:04;Sul;Romero Trajano;Matemática;Simulados;1,41
+000000113;13/08/2023;21:29:07;Sul;Sávio Pedrosa;Matemática;Ebooks;X
+000000114;02/08/2023;19:33:08;Sudeste;Renan Oliveira;Física;Aulas Online;X
+000000115;27/08/2023;17:30:10;Sul;Hélio Jr;Física;Simulados;0,68
+000000116;18/08/2023;09:35:54;Nordeste;Fernando Yuri;Física;Exercícios;2,81
+000000117;28/08/2023;22:02:13;Centro Oeste;Geovana Hiur;Física;Ebooks;X
+000000118;02/08/2023;15:53:26;Centro Oeste;Mannu Cardoso;Engenharia Civil;Aulas Online;X
+000000119;30/08/2023;02:04:55;Sul;Hélio Jr;Literatura;Exercícios;5,57
+000000120;07/08/2023;02:30:45;Centro Oeste;Geovana Hiur;História;Ebooks;X
+000000121;20/08/2023;21:51:23;Nordeste;Brunno Paiva;Engenharia Civil;Simulados;7,09
+000000122;27/08/2023;22:33:50;Sul;Sávio Pedrosa;Literatura;Aulas Online;X
+000000123;11/08/2023;19:33:28;Sul;Hélio Jr;Física;Exercícios;0,78
+000000124;02/08/2023;02:31:38;Centro Oeste;Geovana Hiur;Matemática;Exercícios;8,15
+000000125;11/08/2023;16:32:38;Norte;Daniel Dalembert;Física;Simulados;5,51
+000000126;10/08/2023;04:13:42;Sudeste;Renan Oliveira;Ciências da Computação;Exercícios;6,79
+000000127;30/08/2023;07:33:21;Sudeste;Ana Malu;Matemática;Ebooks;X
+000000128;17/08/2023;19:17:59;Nordeste;Fernando Yuri;História;Simulados;1,95
+000000129;21/08/2023;04:26:23;Sul;Sávio Pedrosa;Matemática;Ebooks;X
+000000130;21/08/2023;20:59:29;Sudeste;Ana Malu;Ciências da Computação;Ebooks;X
+000000131;15/08/2023;12:02:33;Centro Oeste;Mannu Cardoso;História;Simulados;6,11
+000000132;06/08/2023;15:21:32;Norte;Yuri Kepler;Engenharia Civil;Aulas Online;X
+000000133;24/08/2023;11:37:26;Norte;Yuri Kepler;Matemática;Aulas Online;X
+000000134;28/08/2023;23:21:26;Sul;Romero Trajano;História;Aulas Online;X
+000000135;07/08/2023;14:44:21;Norte;Yuri Kepler;História;Aulas Online;X
+000000136;31/08/2023;05:27:32;Centro Oeste;Mannu Cardoso;Ciências da Computação;Aulas Online;X
+000000137;01/08/2023;12:58:24;Norte;Yuri Kepler;Ciências da Computação;Aulas Online;X
+000000138;02/08/2023;09:10:16;Centro Oeste;Lugano Diego;Física;Exercícios;3,96
+000000139;16/08/2023;09:30:25;Norte;Daniel Dalembert;Física;Simulados;6
+000000140;12/08/2023;23:28:26;Sul;Sávio Pedrosa;Ciências da Computação;Simulados;4,56
+000000141;13/08/2023;20:28:11;Sudeste;Renan Oliveira;História;Simulados;9,83
+000000142;07/08/2023;09:31:14;Norte;Daniel Dalembert;Matemática;Exercícios;0,93
+000000143;31/08/2023;16:21:56;Sudeste;Caio Damasco;Física;Ebooks;X
+000000144;09/08/2023;08:15:22;Norte;Yuri Kepler;Matemática;Aulas Online;X
+000000145;01/08/2023;01:16:16;Norte;Polyana Hermes;Matemática;Aulas Online;X
+000000146;22/08/2023;01:12:57;Centro Oeste;Geovana Hiur;Engenharia Civil;Ebooks;X
+000000147;18/08/2023;20:53:05;Sudeste;Ana Malu;História;Ebooks;X
+000000148;03/08/2023;18:38:30;Nordeste;Fernando Yuri;Ciências da Computação;Exercícios;6,16
+000000149;10/08/2023;17:05:26;Nordeste;Fernando Yuri;Literatura;Ebooks;X
+000000150;21/08/2023;12:48:35;Sudeste;Renan Oliveira;Engenharia Civil;Aulas Online;X
+000000151;06/08/2023;00:33:58;Nordeste;Karol Alencar;Física;Exercícios;5,54
+000000152;17/08/2023;16:30:57;Centro Oeste;Lugano Diego;Literatura;Simulados;3,66
+000000153;18/08/2023;09:00:55;Sudeste;Júlio Godoy;Engenharia Civil;Ebooks;X
+000000154;03/08/2023;02:20:41;Sudeste;Ana Malu;Matemática;Aulas Online;X
+000000155;18/08/2023;19:53:03;Norte;Polyana Hermes;Matemática;Ebooks;X
+000000156;29/08/2023;22:49:26;Norte;Yuri Kepler;Engenharia Civil;Aulas Online;X
+000000157;18/08/2023;12:43:42;Centro Oeste;Mannu Cardoso;Matemática;Exercícios;3,27
+000000158;21/08/2023;00:53:48;Norte;Daniel Dalembert;Física;Simulados;7
+000000159;29/08/2023;09:47:17;Sudeste;Júlio Godoy;História;Ebooks;X
+000000160;08/08/2023;14:33:45;Nordeste;Fernando Yuri;Ciências da Computação;Aulas Online;X
+000000161;30/08/2023;18:15:44;Norte;Yuri Kepler;Literatura;Aulas Online;X
+000000162;12/08/2023;23:38:35;Centro Oeste;Lugano Diego;História;Aulas Online;X
+000000163;06/08/2023;09:06:57;Sudeste;Júlio Godoy;Ciências da Computação;Aulas Online;X
+000000164;03/08/2023;13:07:16;Sudeste;Cintia Nogueira;História;Ebooks;X
+000000165;13/08/2023;18:55:04;Norte;Daniel Dalembert;Ciências da Computação;Exercícios;4,92
+000000166;01/08/2023;04:47:09;Centro Oeste;Mannu Cardoso;Física;Aulas Online;X
+000000167;24/08/2023;14:16:13;Norte;Daniel Dalembert;Matemática;Ebooks;X
+000000168;06/08/2023;03:27:09;Sudeste;Caio Damasco;Engenharia Civil;Ebooks;X
+000000169;09/08/2023;04:08:05;Sul;Hélio Jr;Ciências da Computação;Simulados;1,2
+000000170;13/08/2023;07:38:40;Nordeste;Pedro Honório;Engenharia Civil;Ebooks;X
+000000171;13/08/2023;23:33:56;Norte;Polyana Hermes;História;Aulas Online;X
+000000172;01/08/2023;22:21:29;Sudeste;Ana Malu;Engenharia Civil;Ebooks;X
+000000173;18/08/2023;21:52:41;Norte;Daniel Dalembert;Engenharia Civil;Simulados;6,99
+000000174;25/08/2023;20:25:08;Centro Oeste;Lugano Diego;Engenharia Civil;Simulados;7,59
+000000175;07/08/2023;08:08:21;Centro Oeste;Mannu Cardoso;Literatura;Aulas Online;X
+000000176;16/08/2023;03:28:30;Nordeste;Pedro Honório;Engenharia Civil;Simulados;4,95
+000000177;31/08/2023;06:11:02;Centro Oeste;Geovana Hiur;Engenharia Civil;Simulados;5,22
+000000178;23/08/2023;06:21:45;Nordeste;Pedro Honório;Engenharia Civil;Exercícios;1,66
+000000179;04/08/2023;07:14:36;Sudeste;Ana Malu;Matemática;Ebooks;X
+000000180;29/08/2023;15:49:13;Sul;Romero Trajano;Ciências da Computação;Exercícios;5,03
+000000181;13/08/2023;22:25:04;Sul;Romero Trajano;Física;Aulas Online;X
+000000182;25/08/2023;16:08:35;Sul;Hélio Jr;Ciências da Computação;Ebooks;X
+000000183;17/08/2023;11:35:41;Sul;Romero Trajano;Engenharia Civil;Ebooks;X
+000000184;07/08/2023;15:23:33;Centro Oeste;Mannu Cardoso;Literatura;Aulas Online;X
+000000185;28/08/2023;20:45:49;Sudeste;Júlio Godoy;Física;Exercícios;4,91
+000000186;19/08/2023;21:46:29;Nordeste;Brunno Paiva;Literatura;Aulas Online;X
+000000187;06/08/2023;17:39:18;Sul;Sávio Pedrosa;Ciências da Computação;Simulados;7,58
+000000188;11/08/2023;19:19:04;Nordeste;Fernando Yuri;Física;Simulados;2,63
+000000189;15/08/2023;17:07:01;Norte;Polyana Hermes;Engenharia Civil;Exercícios;8,95
+000000190;15/08/2023;21:02:57;Norte;Polyana Hermes;Engenharia Civil;Simulados;1,38
+000000191;20/08/2023;07:53:08;Sudeste;Júlio Godoy;Literatura;Exercícios;9,82
+000000192;29/08/2023;22:21:14;Sudeste;Renan Oliveira;Literatura;Aulas Online;X
+000000193;02/08/2023;04:24:36;Nordeste;Karol Alencar;Matemática;Aulas Online;X
+000000194;02/08/2023;12:46:37;Centro Oeste;Kleiton Xavier;História;Simulados;4,01
+000000195;30/08/2023;18:35:39;Sul;Romero Trajano;Matemática;Aulas Online;X
+000000196;03/08/2023;22:08:06;Centro Oeste;Kleiton Xavier;Ciências da Computação;Exercícios;9,37
+000000197;21/08/2023;00:40:51;Sudeste;Caio Damasco;Engenharia Civil;Exercícios;6,78
+000000198;26/08/2023;16:51:04;Sul;Hélio Jr;Matemática;Ebooks;X
+000000199;22/08/2023;22:13:03;Sul;Hélio Jr;Literatura;Simulados;0,15
+000000200;19/08/2023;07:11:49;Norte;Yuri Kepler;Física;Ebooks;X
